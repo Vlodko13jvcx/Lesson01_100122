@@ -1,0 +1,43 @@
+h1 {
+    background: #892727;
+    color: #fae7d8;
+    text-align: center;
+}
+
+.one {
+    background: silver;
+    padding: 28px;
+    box-sizing: border-box;
+}
+
+.two {
+    background: #6395ec;
+    box-sizing: border-box;
+    height: 137px;
+    padding-top: 57px;
+}
+
+.three {
+    width: 275px;
+    height: 275px;
+    background: #6bba67;
+}
+
+.four {
+    border-radius: 25px;
+    background: #8987ac;
+}
+
+.five {
+    width: 400px;
+    height: 200px;
+    background: gray;
+    margin-top: 100px;
+    box-shadow: #d4b792 -20px -20px 30px 10px;
+}
+
+.txt {
+    width: 300px;
+    padding-left: 20px;
+    border-left: 4px solid red;
+}
