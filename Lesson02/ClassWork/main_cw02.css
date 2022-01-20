@@ -1,0 +1,35 @@
+body {
+    background-color: #252525
+}
+.orange, .blue, .pink, .red {
+    box-sizing: border-box;
+    width: 210px;
+    height: 60px;
+    background: #252525;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 13px;
+    margin-left: 45%;
+    border-radius: 30px;
+}
+.orange {
+    color: #ff6e1d;
+    border: #ff6e1d solid 5px;
+    margin-top: 200px;
+}
+
+.blue {
+    color: #2cfff2;
+    border: #2cfff2 solid 5px;
+}
+
+.pink {
+    color: #ff54a6;
+    border: #ff54a6 solid 5px;
+}
+
+.red {
+    color: #ff3e3e;
+    border: #ff3e3e solid 5px;
+}
