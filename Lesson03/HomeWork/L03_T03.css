@@ -1,0 +1,39 @@
+body {
+    margin: 0;
+}
+
+.wrap {
+    display: flex;
+    flex-direction: column;
+    padding: 15px;
+    row-gap: 15px;
+    color: white;
+}
+
+.wrap_2 {
+    display: flex;
+    column-gap: 15px;
+}
+
+#header, #footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #2269bb;
+    height: 206px;
+    font-size: 1.5em;
+}
+
+.post {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #16457a;
+    height: 189px;
+    width: 33.3%;
+    font-size: 1em;
+}
+
+#footer {
+    height: 411px;
+}

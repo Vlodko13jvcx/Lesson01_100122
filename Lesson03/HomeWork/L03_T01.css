@@ -1,0 +1,39 @@
+.wrap {
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    border: 3px solid gray;
+    border-radius: 10px;
+}
+
+.wrap_2 {
+    display: flex;
+}
+
+.block_A {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: silver;
+    height: 250px;
+    margin-bottom: 10px;
+}
+
+.block_B {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #2cfff2;
+    height: 500px;
+    width: 70%;
+}
+
+.block_C {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #6bba67;
+    height: 500px;
+    width: 30%;
+    margin-left: 10px;
+}
