@@ -1,0 +1,60 @@
+.flex {
+    display: flex;
+}
+
+.column {
+    flex-direction: column;
+}
+
+.txt-center {
+    justify-content: center;
+    align-items: center;
+}
+
+.brd-1-blk {
+    border: 1px solid black;
+}
+
+.bg-head {
+    background: #e6f7b0;
+}
+
+.bg-foot {
+    background: #ffffca;
+}
+
+.bg-menu {
+    background: #ffb7ff;
+}
+
+.bg-post {
+    background: #9fe2ff;
+}
+
+.h50 {
+    height: 50%;
+}
+
+.h250 {
+    height: 250px;
+}
+
+.h700 {
+    height: 700px;
+}
+
+.w30 {
+    width: 30%;
+}
+
+.w70 {
+    width: 70%;
+}
+
+.row-gap {
+    row-gap: 10px;
+}
+
+.colm-gap {
+    column-gap: 10px;
+}

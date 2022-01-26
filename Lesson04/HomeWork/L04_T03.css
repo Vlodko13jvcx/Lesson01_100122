@@ -1,0 +1,60 @@
+body {
+    margin: 0;
+}
+
+.flex {
+    display: flex;
+}
+
+.column {
+    flex-direction: column;
+}
+
+.txt-cntr {
+    justify-content: center;
+    align-items: center;
+}
+
+.bg-hd-ft {
+    background: #2269bb;
+}
+
+.bg-pst {
+    background: #16457a;
+}
+
+.padd15 {
+    padding: 15px;
+}
+
+.h200 {
+    height: 200px;
+}
+
+.h400 {
+    height: 400px;
+}
+
+.w33 {
+    width: 33%;
+}
+
+.row-gap15 {
+    row-gap: 15px;
+}
+
+.colm-gap15 {
+    column-gap: 15px;
+}
+
+.fnt-sz-1 {
+    font-size: 1em;
+}
+
+.fnt-sz-15 {
+    font-size: 1.5em;
+}
+
+.color {
+    color: white;
+}

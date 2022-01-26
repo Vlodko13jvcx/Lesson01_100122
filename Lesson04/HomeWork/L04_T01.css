@@ -1,0 +1,52 @@
+.flex {
+    display: flex;
+}
+
+.column {
+    flex-direction: column;
+}
+
+.padd10 {
+    padding: 10px;
+}
+
+.brd-3-gray {
+    border: 3px solid gray;
+}
+
+.brd-r10 {
+    border-radius: 10px;
+}
+
+.txt-center {
+    justify-content: center;
+    align-items: center;
+}
+
+.bg-silver {
+    background: silver;
+}
+
+.h250 {
+    height: 250px;
+}
+
+.h500 {
+    height: 500px;
+}
+
+.w30 {
+    width: 30%;
+}
+
+.w70 {
+    width: 70%;
+}
+
+.row-gap {
+    row-gap: 10px;
+}
+
+.colm-gap {
+    column-gap: 10px;
+}
